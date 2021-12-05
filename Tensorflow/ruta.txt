@@ -1,0 +1,21 @@
+---scrips
+	generate_tfrecord.py
+
+---labelImg
+	...
+
+
+
+--workspace
+	--annotations
+	--images
+		-allimages
+		-test
+		-train
+	--models ---models (clona el repositorio) https://github.com/tensorflow/models
+	my_ssd_mobnet copiar en esta carpeta ssd_mobilenet_v2_fpnlite_320x320_coco17_tpu-8 pipeline
+	--...
+	
+	--pre-treinaed-models
+
+	
